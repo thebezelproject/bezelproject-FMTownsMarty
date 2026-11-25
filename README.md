@@ -9,4 +9,4 @@ The bezel packs are used in a RetroPie build for providing game bezels.
 
 The graphics in this repository follow the following design.
 
-![Sample bezel](https://github.com/thebezelproject/bezelproject-FmTownsMarty/blob/master/retroarch/overlay/GameBezels/FmTownsMarty/4D%20Boxing%20(Japan).png?raw=true)
+![Sample bezel](https://github.com/thebezelproject/bezelproject-FMTownsMarty/blob/master/retroarch/overlay/GameBezels/FMTownsMarty/4D%20Boxing%20(Japan).png?raw=true)
